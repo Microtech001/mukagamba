@@ -374,7 +374,7 @@ fi
 echo -e "\e[0;34m-----------------------------------------------------------\e[0m"
 echo -e ""
 echo -e "${green}JIKA TERDAPAT NOT RUNNING, PLEASE REPORT TO ADMIN FOR FIX$NC"
-echo -e "${green}Report to YOLONET @microtechvpnservice$NC"
+echo -e "${green}Report to MTS @microtechvpnservice$NC"
 echo ""
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
