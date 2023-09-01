@@ -98,7 +98,7 @@ systemctl restart wg-quick@wg0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://img.shields.io/badge/CREDIT-%3A-blueviolet.svg"> <img src="https://img.shields.io/badge/-Pakya-blue.svg"> <img src="https://img.shields.io/badge/-Vinstech-blue.svg"> <img src="https://img.shields.io/badge/-REDVPN-blue.svg"> <img src="https://img.shields.io/badge/-HANGTUAH-blue.svg"> <img src="https://img.shields.io/badge/-Project D-blue.svg"> <img src="https://img.shields.io/badge/-V2RAY-blue.svg">
+<img src="https://img.shields.io/badge/CREDIT-%3A-blueviolet.svg"> <img src="https://img.shields.io/badge/MTS-blue.svg"> <img src="https://img.shields.io/badge/-SHRL-blue.svg"> <img src="https://img.shields.io/badge/-MIODOS-blue.svg"> <img src="https://img.shields.io/badge/-SURSORO-blue.svg"> <img src="https://img.shields.io/badge/-Project D-blue.svg"> <img src="https://img.shields.io/badge/-V2RAY-blue.svg">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
