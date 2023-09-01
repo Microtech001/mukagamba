@@ -12,8 +12,8 @@ namafolder="websocket-python"
 # // SYSTEM WEBSOCKET HTTPS 443
 cat <<EOF> /etc/systemd/system/ws-https.service
 [Unit]
-Description=Python Proxy Mod By Manternet
-Documentation=https://github.com/Manternet/
+Description=Python Proxy By MTS
+Documentation=https://github.com/Microtech001/
 After=network.target nss-lookup.target
 
 [Service]
@@ -32,8 +32,8 @@ EOF
 # // SYSTEM WEBSOCKET HTTP 80
 cat <<EOF> /etc/systemd/system/ws-http.service
 [Unit]
-Description=Python Proxy Mod By Manternet
-Documentation=https://github.com/Manternet/
+Description=Python Proxy By MTS
+Documentation=https://github.com/Microtech001/
 After=network.target nss-lookup.target
 
 [Service]
@@ -51,8 +51,8 @@ EOF
 # // SYSTEM WEBSOCKET OVPN
 cat <<EOF> /etc/systemd/system/ws-ovpn.service
 [Unit]
-Description=Python Proxy Manternet
-Documentation=https://github.com/Manternet
+Description=Python Proxy MTS
+Documentation=https://github.com/Microtech001/
 After=network.target nss-lookup.target
 
 [Service]
