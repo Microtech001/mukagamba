@@ -26,7 +26,7 @@ echo -e "$Lyellow                    CONTACT TELEGRAM"$NC
 echo -e "$Lyellow                  @microtechvpnservice"$NC
 echo -e "$green.........................................................."$NC
 echo ''
-echo -e "$Lyellow                       Tunggu 6 Saat!"$NC
+echo -e "$Lyellow                     Tunggu 6 Saat!"$NC
 echo -e "$green.........................................................."$NC
 sleep 6
 clear
